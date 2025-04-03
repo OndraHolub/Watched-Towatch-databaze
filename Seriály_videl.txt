@@ -1,0 +1,28 @@
+1,Stíny budoucnosti,Sci-fi Thriller,Ano,8.2  
+2,Krvavý měsíc,Horor Mysteriózní,Ne,7.5  
+3,Hranice odvahy,Akční Drama,Ano,8.8  
+4,Láska v mlze,Romantický Drama,Ano,6.9  
+5,Operace Titan,Akční Sci-fi,Ne,8.0  
+6,Ztracená dimenze,Sci-fi Dobrodružný,Ano,7.3  
+7,Temný odkaz,Thriller Drama,Ano,8.1  
+8,Noc v podzemí,Horor,Ne,6.5  
+9,Kód Apokalypsy,Akční Thriller,Ano,7.9  
+10,Záhada modrého měsíce,Detektivní Thriller,Ne,7.2  
+11,Ocelové nebe,Sci-fi Akční,Ano,7.8  
+12,Ledová pouta,Drama Dobrodružný,Ano,8.0  
+13,Království stínů,Fantasy Dobrodružný,Ne,7.4  
+14,Návrat z temnot,Horor Thriller,Ano,6.8  
+15,Pekelné stroje,Sci-fi Akční,Ne,7.6  
+16,Srdce válečníka,Historický Akční,Ano,8.5  
+17,Ztracený signál,Sci-fi Mysteriózní,Ne,7.1  
+18,Vyvolený osud,Fantasy Drama,Ano,7.9  
+19,Stopy ve tmě,Detektivní Thriller,Ne,6.7  
+20,Mezi světy,Sci-fi Fantasy,Ano,8.3  
+21,Vlčí noc,Horor Mysteriózní,Ne,6.9  
+22,Ocelová pravda,Akční Drama,Ano,8.4  
+23,Tajné spisy,Thriller Historický,Ne,7.5  
+24,Zabiják v mlze,Detektivní Thriller,Ne,6.6  
+25,Neznámá hrozba,Akční Sci-fi,Ano,7.8  
+26,Království ledu,Fantasy Dobrodružný,Ne,7.3  
+27,Temná stránka měsíce,Horor Sci-fi,Ano,7.0  
+28,Válka stínů,Historický Thriller,Ne,8.2
