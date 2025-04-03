@@ -120,7 +120,6 @@ internal class Program
                     Console.WriteLine("Zadejte číslo, musí být 1-4");
                 }
             }
-           //AI ->
             string[] radky = File.ReadAllLines(soubor);
 
             // Výpis řádků s indexy
@@ -149,7 +148,7 @@ internal class Program
 
             Console.WriteLine("Záznam byl smazán a indexy upraveny.");
             System.Threading.Thread.Sleep(2000);
-       }   //<-- AI
+       } 
         private int korekce(int min, int max)
         {
             int result;
